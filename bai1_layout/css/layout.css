@@ -1,0 +1,44 @@
+#container{
+	width:881px;
+	background-color:yellow;
+	min-height:500px;
+	margin:auto;
+}
+header{
+	width:881px;
+	background:#aaa;
+	min-height:100px;
+}
+nav{
+	width:881px;
+	background:#eee;
+	min-height:30px;
+}
+
+content{
+	width:881px;
+	background:#00ffaa;
+	overflow:auto;
+	padding:15px;
+	box-sizing:border-box;
+}
+#recycle{
+	width:258px;
+	background:#aa00ff;
+	min-height:300px;
+	float:left;
+	margin-right:23px;
+}
+.sa{
+	width:258px;
+	background:#aa00ff;
+	min-height:300px;
+	float:left;
+	margin-right:23px;
+	float:left;
+}
+footer{
+	background:#addeff;
+	min-height:80px;
+	clear:left;
+}
